@@ -1,0 +1,27 @@
+#main-header {
+    background-color: #F7B600;
+    text-align: center;
+    padding: 20px;
+}
+
+#logo {
+    color: #FFF;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+#span-logo {
+    color: #4E4E4E;
+}
+
+.action {
+    color: #FFF;
+    font-size: 1.2em;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+
+.action:hover {
+    background-color: #FFF;
+    color: #F7B600;
+}
