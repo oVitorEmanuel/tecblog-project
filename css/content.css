@@ -13,12 +13,6 @@
     margin-right: 20px;
 }
 
-.lateral {
-    width: 240px;
-    float: left;
-    background-color: blue;
-}
-
 .post {
     padding: 20px;
     background-color: #FFF;
@@ -51,3 +45,54 @@ h2 {
 .content .action-content:hover {
     text-decoration: underline;
 }
+
+
+.lateral {
+    width: 240px;
+    float: left;
+}
+
+.subtitle {
+    color: #565656;
+    background-color: #CCC;
+    padding: 4px;
+}
+
+.recent-post {
+    padding: 10px;
+    background: #FFF;
+    margin-bottom: 15px;
+}
+
+.recent-post a {
+    display: inline-block;
+    text-decoration: none;
+    color: #F7B600;
+}
+
+.recent-post a:hover {
+    text-decoration: underline;
+}
+
+.recent-post p {
+    margin-top: 5px;
+}
+
+.category {
+    padding: 10px;
+    background: #FFF;
+}
+
+.category a {
+    display: block;
+    font-size: 1.1em;
+    text-decoration: none;
+    margin-top: 4px;
+    color: #F7B600;
+    
+}
+
+.category a:hover {
+    text-decoration: underline;
+}
+
