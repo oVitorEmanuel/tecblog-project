@@ -1,8 +1,6 @@
 .wrapper-content {
     width: 920px;
-    background-color: white;
-    margin: 5px auto;
-
+    margin: 15px auto 0px auto;
 }
 
 .clear {
@@ -13,11 +11,43 @@
     width: 660px;
     float: left;
     margin-right: 20px;
-    background-color: brown;
 }
 
 .lateral {
     width: 240px;
     float: left;
     background-color: blue;
+}
+
+.post {
+    padding: 20px;
+    background-color: #FFF;
+    float: left;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #F7B600;
+}
+
+.data {
+    font-size: 0.8em;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #F4F4F4;
+}
+
+#img1 {
+    width: 620px;
+}
+
+.content .action-content {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 10px;
+    color: #F7B600;
+}
+
+.content .action-content:hover {
+    text-decoration: underline;
 }
